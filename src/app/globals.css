@@ -16,9 +16,3 @@
   }
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-}
-h1 {
-  color: rgb(var(--foreground-rgb));
-}
